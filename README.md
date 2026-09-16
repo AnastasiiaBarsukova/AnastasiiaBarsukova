@@ -67,11 +67,6 @@ Fullstack Developer working with Java/Spring Boot and Node.js/TypeScript on the 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anastasiia-barsukova-2481591b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 ### 📈 Contribution Graph
 
